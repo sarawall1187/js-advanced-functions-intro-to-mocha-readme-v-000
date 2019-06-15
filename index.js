@@ -12,3 +12,7 @@ function sayHeyFriend(name){
 function favoriteIceCream(iceCream){
   return `I love ${iceCream}`
 }
+
+function  shouting(shout){
+  return `${shout.toUpperCase()}`
+}
